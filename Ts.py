@@ -123,5 +123,3 @@ with gr.Blocks(css=custom_css) as interface:
 
 if __name__ == "__main__":
     interface.launch(share=True)
-
-# cd C:\Codes\DeepSeekProjects\TextSummarizer
